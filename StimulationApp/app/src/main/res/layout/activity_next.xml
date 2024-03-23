@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NextActivity">
+
+    <TextView
+        android:id="@+id/balanceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Balance: 0"
+        android:layout_centerInParent="true"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/earnButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Earn"
+        android:layout_below="@id/balanceTextView"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:id="@+id/spendButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spend"
+        android:layout_below="@id/earnButton"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

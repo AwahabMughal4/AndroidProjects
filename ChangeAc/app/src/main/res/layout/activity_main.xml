@@ -1,0 +1,22 @@
+<!-- res/layout/activity_main.xml -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color19"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonNavigate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Navigate to Second Activity"
+        android:backgroundTint="@color/color40"
+        android:textColor="@color/color4"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_centerInParent="true"/>
+
+
+</RelativeLayout>

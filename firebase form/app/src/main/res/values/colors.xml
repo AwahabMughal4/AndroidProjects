@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Custom Colors -->
+    <color name="color1">#FF4081</color>
+    <color name="color2">#4CAF50</color>
+    <color name="color3">#FFC107</color>
+    <color name="color4">#2196F3</color>
+    <color name="color5">#FF5722</color>
+    <color name="color6">#607D8B</color>
+    <color name="color7">#9C27B0</color>
+    <color name="color8">#795548</color>
+    <color name="color9">#00BCD4</color>
+    <color name="color10">#8BC34A</color>
+    <color name="color11">#FFEB3B</color>
+    <color name="color12">#FF9800</color>
+    <color name="color13">#9E9E9E</color>
+    <color name="color14">#673AB7</color>
+    <color name="color15">#E91E63</color>
+    <color name="color16">#3F51B5</color>
+    <color name="color17">#CDDC39</color>
+    <color name="color18">#03A9F4</color>
+    <color name="color19">#FF5252</color>
+    <color name="color20">#536DFE</color>
+    <color name="color21">#8D6E63</color>
+    <color name="color22">#FF6F00</color>
+    <color name="color23">#009688</color>
+    <color name="color24">#4CAF50</color>
+    <color name="color25">#FFC107</color>
+    <color name="color26">#2196F3</color>
+    <color name="color27">#FF5722</color>
+    <color name="color28">#607D8B</color>
+    <color name="color29">#9C27B0</color>
+    <color name="color30">#795548</color>
+    <color name="color31">#00BCD4</color>
+    <color name="color32">#8BC34A</color>
+    <color name="color33">#FFEB3B</color>
+    <color name="color34">#FF9800</color>
+    <color name="color35">#9E9E9E</color>
+    <color name="color36">#673AB7</color>
+    <color name="color37">#E91E63</color>
+    <color name="color38">#3F51B5</color>
+    <color name="color39">#CDDC39</color>
+    <color name="color40">#03A9F4</color>
+
+</resources>
